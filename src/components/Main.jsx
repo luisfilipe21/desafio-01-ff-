@@ -4,10 +4,15 @@ export const Main = () => {
             <section className="h-screen ">
                 <div className="flex items-center flex-col justify-center h-full m-auto">
                     <div>
-                        <img className="rounded-3xl mt-8" src="./src/assets/praia2.png" width={620} alt="Fotinha" title="Fotinha" />
+                        <img 
+                        className="rounded-3xl mt-8 mb-16" 
+                        src="./src/assets/praia2.png" 
+                        width={620} 
+                        alt="Fotinha" 
+                        title="Fotinha" />
                     </div>
                     <div className="flex items-center flex-col h-2/3 justify-around text-white">
-                        <h1 className="text-7xl mb-8">Olá! Eu sou o <span className="text-yellow-200 text-">Luis Filipe!</span></h1>
+                        <h1 className="text-7xl mb-8">Olá! Eu sou o <span className="text-yellow-600 text-">Luis Filipe!</span></h1>
 
                         <p className="text-2xl">Como um desenvolvedor front-end que vive e respira código, estou constantemente em busca da próxima grande aventura no mundo da programação. Com habilidades que abrangem desde JavaScript e Typescript nos frameworks React e Angular, além de todas aquelas bibliotecas e ferramentas que mantêm nosso ritmo no desenvolvimento moderno. Eu tenho um amor especial por manter meu código limpo e organizado, chega a tranquilizar a mente. Quando não estou imerso no código, estou dedicado a melhorar a comunicação da equipe e sempre buscando aprender novas tecnologias.</p>
 
