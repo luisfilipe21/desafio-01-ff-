@@ -3,7 +3,7 @@ export const Main = () => {
         <main className="p-8 max-w-5xl m-auto">
             <section className="h-screen ">
                 <div className="flex items-center flex-col justify-center h-full m-auto">
-                    <div className="h-full">
+                    <div className="h-full mt-8">
                         <img 
                         className="rounded-3xl mt-8 mb-16" 
                         src="https://thebarbell.com/wp-content/uploads/2023/01/Cbum-2022-Olympia.png" 
