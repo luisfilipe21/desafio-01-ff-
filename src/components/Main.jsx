@@ -11,7 +11,7 @@ export const Main = () => {
                         alt="Fotinha" 
                         title="Fotinha" />
                     </div>
-                    <div className="flex items-center flex-col h-2/3 justify-around text-white">
+                    <div className="flex items-center flex-col justify-around text-white">
                         <h1 className="text-7xl mb-8">Olá! Eu sou o <span className="text-yellow-600 text-">Luis Filipe!</span></h1>
 
                         <p className="text-2xl">Como um desenvolvedor front-end que vive e respira código, estou constantemente em busca da próxima grande aventura no mundo da programação. Com habilidades que abrangem desde JavaScript e Typescript nos frameworks React e Angular, além de todas aquelas bibliotecas e ferramentas que mantêm nosso ritmo no desenvolvimento moderno. Eu tenho um amor especial por manter meu código limpo e organizado, chega a tranquilizar a mente. Quando não estou imerso no código, estou dedicado a melhorar a comunicação da equipe e sempre buscando aprender novas tecnologias.</p>
