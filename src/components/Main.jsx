@@ -1,7 +1,7 @@
 export const Main = () => {
     return (
-        <main className="p-8 max-w-5xl m-auto">
-            <section className="h-screen ">
+        <main className="p-8 max-w-5xl m-autoh-screen">
+            <section>
                 <div className="flex items-center flex-col justify-center h-full m-auto">
                     <div className="mt-8">
                         <img 
