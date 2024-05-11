@@ -3,7 +3,7 @@ export const Main = () => {
         <main className="p-8 max-w-5xl m-auto">
             <section className="h-screen ">
                 <div className="flex items-center flex-col justify-center h-full m-auto">
-                    <div className="h-full mt-8">
+                    <div className="mt-8">
                         <img 
                         className="rounded-3xl mt-8 mb-16" 
                         src="https://thebarbell.com/wp-content/uploads/2023/01/Cbum-2022-Olympia.png" 
@@ -20,7 +20,6 @@ export const Main = () => {
                             O Luis que vai além da programação é uma pessoa que gosta desafios, independente de quais sejam, gosta de rir, estar com os amigos, treinar pesado, jogar xadrez, de passar tempo com seus cachorros e sua esposa. É também uma pessoa super competitiva, daquelas que perde as estribeiras jogando War (não me orgulho disto kkkk mas é a vida) e que também tenta levar a vida de maneira leve, fazendo piadas com as situações para evitar que o clima pese.
                         </p>
                     </div>
-
                 </div>
             </section>
         </main>
